@@ -1,0 +1,25 @@
+body{
+    margin:0;
+}
+h1{
+    margin:0;
+}
+.container{
+    height:400px;
+    background-color: lightblue;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+   
+}
+.one,.two,.three{
+  
+ 
+    
+    background-color:blue;
+    border:1px solid white;
+    text-align: center;
+    padding:5px;
+    
+}
